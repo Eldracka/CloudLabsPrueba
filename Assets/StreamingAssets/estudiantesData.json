@@ -1,0 +1,103 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "Lucas",
+      "apellido": "Lopera",
+      "correo": "llop@g.com",
+      "codigo": 0,
+      "nota": 1.7000000476837158,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Johana",
+      "apellido": "Morales",
+      "correo": "jm@g.com",
+      "codigo": 1,
+      "nota": 4.800000190734863,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Inex",
+      "apellido": "Montoya",
+      "correo": "im@g.com",
+      "codigo": 2,
+      "nota": 4.800000190734863,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Mejia",
+      "correo": "am@g.com",
+      "codigo": 3,
+      "nota": 4.800000190734863,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Jaramillo",
+      "correo": "dj@g.com",
+      "codigo": 4,
+      "nota": 2.9000000953674316,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Manuel",
+      "apellido": "Morales",
+      "correo": "mm@g.com",
+      "codigo": 5,
+      "nota": 4.800000190734863,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Pedrito",
+      "apellido": "Morales",
+      "correo": "pm@g.com",
+      "codigo": 10,
+      "nota": 4.800000190734863,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Yaneth",
+      "apellido": "Garcia",
+      "correo": "yg@g.com",
+      "codigo": 9,
+      "nota": 4.800000190734863,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Daniel",
+      "apellido": "Ortega",
+      "correo": "do@g.com",
+      "codigo": 8,
+      "nota": 2.799999952316284,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Julian",
+      "apellido": "Zapata",
+      "correo": "jz@g.com",
+      "codigo": 7,
+      "nota": 1.5,
+      "aprobado": "",
+      "calificado": false
+    },
+    {
+      "nombre": "Adele",
+      "apellido": "Herrera",
+      "correo": "ah@g.com",
+      "codigo": 6,
+      "nota": 4.800000190734863,
+      "aprobado": "",
+      "calificado": false
+    }
+  ]
+}
